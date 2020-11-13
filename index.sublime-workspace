@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"css"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/P/RAUL/DAW/pagina web/css/estilos.css",
+		"/C/Users/Raul/Documents/HolaRaul.java",
+		"/E/raul/DAC Consulting/web/index.html",
+		"/E/raul/DAC Consulting/web/assets/sociallikes/social-likes.js",
+		"/E/raul/DAC Consulting/web/assets/theme/css/style.css",
+		"/E/MiPrimeraWeb/index.php",
+		"/E/MiPrimeraWeb/funciones.php",
+		"/E/MiPrimeraWeb/iniciodos.php",
+		"/E/raul/comprobar.php",
+		"/C/xampp/htdocs/SL/wp-content/themes/vantage/page.php",
+		"/C/xampp/htdocs/SL/wp-content/plugins/wpforms-lite/wpforms.php",
+		"/C/xampp/htdocs/SL/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php",
+		"/C/xampp/htdocs/SL/wp-content/themes/vantage/parts/footer.php",
+		"/C/xampp/htdocs/raul/index.html",
+		"/E/raul/index.php",
+		"/C/xampp/htdocs/SL/wp-content/themes/vantage/index.php",
+		"/C/xampp/htdocs/SL/wp-config.php",
+		"/C/xampp/htdocs/SL/index.php",
+		"/C/xampp/htdocs/SL/wp-login.php",
+		"/C/xampp/htdocs/Proyecto/assets/PHP/conexion.php",
+		"/C/xampp/htdocs/Proyecto/assets/PHP/librerias/PHPMailer/class.pop3.php",
+		"/C/xampp/htdocs/Proyecto/altas_asegurados.php",
+		"/C/xampp/htdocs/raul/assets/theme/css/style.css",
+		"/C/xampp/htdocs/raul/assets/mobirise/css/mbr-additional.css",
+		"/P/CDs RICOH/@Manuales Marzo.2017/USBDataFile/contents/mpc4503.htm",
+		"/C/xampp/htdocs/Codigos php/formularios para suscriptores/allfields_singleoptinphp/NL-process.php",
+		"/C/xampp/htdocs/pruebas/index.html",
+		"/C/xampp/htdocs/raul/menu.html",
+		"/C/xampp/htdocs/Codigos php/formularios para suscriptores/newsletterphp3/NLprocess.php",
+		"/C/xampp/htdocs/Codigos php/formularios para suscriptores/allfields_singleoptinphp/newsletter.htm",
+		"/C/xampp/htdocs/Codigos php/formularios para suscriptores/allfields_singleoptinphp/NL-style.css",
+		"/C/xampp/htdocs/raul/assets/cookies-alert-plugin/cookies-alert-core.js",
+		"/C/xampp/htdocs/raul/pie.html",
+		"/C/xampp/htdocs/raul/page1.html",
+		"/C/xampp/htdocs/raul/testimonios.html",
+		"/C/xampp/htdocs/raul/slider.html",
+		"/C/xampp/htdocs/raul/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js",
+		"/C/xampp/htdocs/raul/assets/parallax/jarallax.min.js",
+		"/P/punto.html",
+		"/C/xampp/htdocs/raul/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
